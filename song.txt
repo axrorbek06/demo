@@ -1,1 +1,5 @@
 salom dunyo 1
+<<<<<<< HEAD
+=======
+men keldim
+>>>>>>> 9b030148c5a876f883d1a49564816e26b9d1febb
